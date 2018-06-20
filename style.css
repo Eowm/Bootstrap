@@ -1,0 +1,20 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+.carousel-caption {
+	background-color: rgba(255, 255, 255, 0.4);
+	color: #222222;
+}
+
+.nav-tabs {
+	margin-top: 3vh;	
+}
+
+.mod {
+	margin-top: 3vh;	
+}
+
+
